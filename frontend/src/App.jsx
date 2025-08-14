@@ -5,7 +5,7 @@ import LoginPopup from "./components/LoginPopup/LoginPopup";
 import Navbar from "./components/Navbar/Navbar.jsx";
 import Cart from "./pages/Cart/Cart";
 import Home from "./pages/Home/Home";
-import MyOrders from "./pages/MyOrders/myOrders.jsx";
+import MyOrders from "./pages/MyOrders/MyOrders.jsx";
 import PlaceOrder from "./pages/PlaceOrder/PlaceOrder";
 import Verify from "./pages/Verify/Verify.jsx";
 
