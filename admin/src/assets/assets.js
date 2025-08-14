@@ -15,4 +15,5 @@ export const assets ={
 }
 
 
-export const url = 'https://food-delivery-backend-drvs.onrender.com'
+export const url = "https://food-delivery-backend-drvs.onrender.com";
+
