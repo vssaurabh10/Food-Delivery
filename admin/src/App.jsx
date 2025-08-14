@@ -8,7 +8,7 @@ import List from "./pages/List/List";
 import Order from "./pages/Orders/Order";
 
 const App = () => {
-  const url = "http://localhost:4000";
+  const url = "https://food-delivery-admin-c05n.onrender.com";
 
   return (
     <div>
